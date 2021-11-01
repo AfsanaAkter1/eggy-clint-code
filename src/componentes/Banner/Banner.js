@@ -3,7 +3,7 @@ import "./Banner.css"
 
 const Banner = () => {
     return (
-        <div>
+        <div className="main">
             <div className="banner">
                 <div className="banner-card">
                     <h1 className="text-warning">HUNGRY?</h1>

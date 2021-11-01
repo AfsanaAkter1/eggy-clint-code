@@ -1,10 +1,13 @@
+.main{
+   overflow-x: hidden;
+}
 .banner{
    background-image: url("https://img.freepik.com/free-photo/concept-indian-cuisine-baked-chicken-wings-legs-honey-mustard-sauce-serving-dishes-restaurant-black-plate-indian-spices-wooden-table-background-image_127425-18.jpg?size=626&ext=jpg");
    background-size: cover;
    background-repeat: no-repeat;
-   background-attachment: fixed;
+   /* background-attachment: fixed; */
    height: 80vh;
-   width: 100vw;
+   width: 100%;
    position: relative;
 }
 
