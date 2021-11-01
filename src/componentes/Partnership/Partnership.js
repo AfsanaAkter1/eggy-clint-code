@@ -1,4 +1,5 @@
 import React from 'react';
+import "./Partnarship.css"
 
 const Partnership = () => {
     return (
