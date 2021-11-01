@@ -58,18 +58,18 @@ const ManageOrder = (props) => {
                             </div>
                             <div className="details-div d-flex justify-content-center ps-2">
                                 <div> <h4 className="fw-bold">{item.name}</h4>
-                                    <p> {item.price}Tk</p></div>
 
+                                </div>
                             </div>
                         </div>
 
                         <div className="order-details-section d-flex align-items-center justify-content-center  ">
                             <div className="  order-details  ">
-                                <p>Name:{name}</p>
-                                <p> Email:{email}</p>
-                                <p>  Mobile Number:{mobilenumber}</p>
-                                <p>  Quantity:{quantity}</p>
-                                <p>  Address:{address}</p>
+                                <p>Name: {name}</p>
+                                <p> Email: {email}</p>
+                                <p>  Mobile Number: {mobilenumber}</p>
+                                <p>  Quantity: {quantity}</p>
+                                <p>  Address: {address}</p>
 
                                 <p> </p>
                                 <p className="text-danger fw-bold">Status: {status}</p>

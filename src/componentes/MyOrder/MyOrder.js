@@ -42,7 +42,7 @@ const MyOrder = (props) => {
                             </div>
                             <div className="details-div d-flex justify-content-center ps-2">
                                 <div> <h4 className="fw-bold">{item.name}</h4>
-                                    <p> {item.price}Tk</p></div>
+                                </div>
 
                             </div>
                         </div>
