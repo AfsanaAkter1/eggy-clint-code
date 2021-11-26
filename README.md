@@ -2,7 +2,7 @@
 
 [Live Code](https://eggy-website.netlify.app/home).
 
-* This is a website about dental care .
+* This is a website about Food Delivery .
 * you can find food items for order. 
 * you can also take placeorder from this website 
 * here i am use firebase authentication for security 
